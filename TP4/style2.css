@@ -48,7 +48,7 @@ header h1 {
 }
 
 .box2:nth-child(3) {
-    background-color: blueviolet;
+    background-color: black;
     font-size: 18px;
     color: rgb(253, 253, 253);
 }
