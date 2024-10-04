@@ -1,0 +1,31 @@
+.box2
+{
+    float: left;
+    font-size: 16px;
+}
+
+.box3
+{
+    float: left;
+    font-size: 16px;
+}
+
+.box 
+{
+    clear: both;
+    font-size: 16px;
+    border: 2px  solid #3388CC;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+
+}
+.box4
+{
+    float: right;
+    font-size: 16px;
+}
+.content
+{
+    width: 780px;
+    margin: auto;
+}
