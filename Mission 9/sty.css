@@ -1,0 +1,31 @@
+header{
+    float: left;
+}
+.corrige:hover{
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+body{
+    font-family: Arial, sans-serif;
+}
+button{
+    width: 100px;
+    height: 60px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+    font-size: 1em;
+    margin: 5px;
+    font-family: verdana;
+    padding: 10px;
+    text-align: center;
+    transition: 0.2s
+}
+nav{
+    color: red;
+}
