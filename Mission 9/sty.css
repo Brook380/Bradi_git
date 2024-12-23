@@ -1,0 +1,36 @@
+header{
+    float: left;
+}
+.corrige:hover{
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-image: url(https://media.istockphoto.com/vectors/vector-realistic-isolated-neon-sign-of-quiz-logo-for-template-and-vector-id1083773442?k=20&m=1083773442&s=612x612&w=0&h=SUBmFJ4690c4P-w8EA4NC281GLSeZ-I0ktO5-iZjn2A=);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 60px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+    font-size: 1em;
+    margin: 5px;
+    font-family: verdana;
+    padding: 10px;
+    text-align: center;
+    transition: 0.2s
+}
+nav{
+    color: red;
+}
